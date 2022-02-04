@@ -1,1 +1,0 @@
-# pajang1515.github.io
