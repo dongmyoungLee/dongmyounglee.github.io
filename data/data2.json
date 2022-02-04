@@ -3,18 +3,21 @@
         "id" : 3,
         "title" : "LOVE 다이아 밴드 2",
         "content" : "only one",
-        "price" : 2470000
+        "price" : 2470000,
+        "img" : "./ring02.png"
     },
     {
         "id" : 4,
         "title" : "LOVE 웨딩 밴드 2",
         "content" : "for you",
-        "price" : 1840000
+        "price" : 1840000,
+        "img" : "./ring03.png"
     },
     {
         "id" : 5,
         "title" : "C type 웨딩 밴드",
         "content" : "Born in France",
-        "price" : 3650000
+        "price" : 3650000,
+        "img" : "./ring01.png"
     }
 ]
