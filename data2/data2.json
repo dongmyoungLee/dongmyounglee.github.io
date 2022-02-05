@@ -2,16 +2,25 @@
     {
         "id" : 3,
         "title" : "Todo-List",
-        "content" : "Javascript"
+        "content" : "Javascript",
+        "link" : "바로가기",
+        "link2" : "상세보기",
+        "url" : "https://dongmyounglee.github.io/JS_Todo/"
     },
     {
         "id" : 4,
         "title" : "KaKao Clone",
-        "content" : "HTML / CSS"
+        "content" : "HTML / CSS",
+        "link" : "바로가기",
+        "link2" : "상세보기",
+        "url" : "https://Shinjiwoooo.github.io/KaKaoTalk_clone/"
     },
     {
         "id" : 5,
         "title" : "Weding Site",
-        "content" : "HTML / CSS"
+        "content" : "HTML / CSS",
+        "link" : "바로가기",
+        "link2" : "상세보기",
+        "url" : "https://dongmyounglee.github.io/WedingSite/"
     }
 ]
